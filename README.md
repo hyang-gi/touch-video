@@ -7,4 +7,4 @@ Touch-Video is an example project to test touch based interaction using a custom
 1. Custom video player development
 2. Animation art / Motion Graphics
 3. Responsive Design
-4. Project Management
+4. Project Management through GitHub Project feature
